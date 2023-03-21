@@ -90,6 +90,8 @@ To run the project, execute the following command:
 👤 **Author1**
 
 - GitHub: [mahamadou-nouridine](https://github.com/mahamadou-nouridine)
+- Linkedin: [mahamadou-nouridine-mamoudou-souley-2b424a1a5](https://www.linkedin.com/in/mahamadou-nouridine-mamoudou-souley-2b424a1a5)
+- Twitter: [Nouridine_Dino](https://twitter.com/Nouridine_Dino)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
