@@ -45,7 +45,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://yacoubou-seidou.github.io/Hello-Microverse/)
+- [Live Demo Link](https://Mahamadou-Nouridine.github.io/Hello-Microverse/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
